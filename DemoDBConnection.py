@@ -1,4 +1,4 @@
-#This program demonstrate the databse connectivity.
+#This program demonstrate the databse connectivity
 
 import mysql.connector
 mydb= mysql.connector.connect(host="localhost", user="root", passwd="sa1234",database="demo")
